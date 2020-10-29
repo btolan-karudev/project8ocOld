@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3e612b26-cff5-4b93-8ed2-1f04a728273a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app_dev.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app_dev.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +98,10 @@
       <workItem from="1603038555072" duration="5766000" />
       <workItem from="1603044854404" duration="681000" />
       <workItem from="1603045977199" duration="693000" />
-      <workItem from="1603047074537" duration="7615000" />
+      <workItem from="1603047074537" duration="8794000" />
+      <workItem from="1603567774163" duration="1202000" />
+      <workItem from="1603786456773" duration="889000" />
+      <workItem from="1603790933231" duration="3864000" />
     </task>
     <servers />
   </component>
@@ -105,9 +109,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1603358629995">
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1603973077631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603358629995" />
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603973077631" />
   </component>
 </project>
